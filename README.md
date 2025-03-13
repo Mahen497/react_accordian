@@ -102,10 +102,6 @@ Ensure that your `faq.json` file inside the `/API` folder follows this format:
 
 Feel free to contribute by forking the repository and submitting a pull request.
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
 ---
 
 **Made with ❤️ using React.**
