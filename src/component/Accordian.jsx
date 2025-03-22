@@ -31,9 +31,6 @@ const Accordian = () => {
                })
             }
          </ul>
-         I'm currently looking for a UI Developer role, but I’ve noticed that job requirements vary a lot. Some positions ask for just HTML, CSS, jQuery, JavaScript, and Bootstrap, while others expect a broader tech stack.
-
-         I saw that you’ve worked with frontend technologies before, which is what I’m currently focusing on. Could you share some insights about your experience—what skills are most important, and how can I better prepare for these roles?
       </>
    );
 }
